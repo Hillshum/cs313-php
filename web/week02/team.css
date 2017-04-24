@@ -1,0 +1,22 @@
+#one {
+  font-size: larger;
+  background-color: blue;
+}
+
+.bolded div {
+  margin-top: 20px;
+}
+
+.bolded div:hover {
+  font-weight: bold;
+}
+
+#two {
+  font-size: small;
+  background-color: darkgreen;
+}
+
+#three {
+  font-size: smaller;
+  background-color: gray;
+}
