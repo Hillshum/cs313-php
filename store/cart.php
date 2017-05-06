@@ -1,7 +1,5 @@
 <?php require 'header-php.php';?>
 <?php
-$productStr = file_get_contents('products.json');
-$json =  json_decode($productStr, true);
 
 if (isset($_POST['addproduct']) && isset($_POST['product']))  {
     $_SESSION['cart'][] = $_POST['product'];

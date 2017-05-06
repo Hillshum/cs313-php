@@ -4,9 +4,6 @@
 
 <ul class="product-list">
 <?php
-$productStr = file_get_contents('products.json');
-$json =  json_decode($productStr, true);
-
 
 foreach ($json as $key => $value) {
     echo "<li class='product-item'><form action='cart.php' method='post'>";
