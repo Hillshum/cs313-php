@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Banana",
+        "cost": 333,
+        "description": "This is a fine bannana"
+    },
+    {
+        "name":"Apple",
+        "cost": 322,
+        "description": "This is a fine apple"
+    }
+]
