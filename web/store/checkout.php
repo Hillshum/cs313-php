@@ -35,14 +35,17 @@ $page="checkout";
  require 'header-html.php';
  ?>
 
-<form method='POST'>
+<form class="form-group" method='POST'>
+  <div>Please provide your address to checkout</div>
 
-  <input placeholder="First Name" name="firstName">
-  <input placeholder="Last Name" name="lastName">
-  <input placeholder="Street Address" name="street">
-  <input placeholder="City" name="city">
-  <input placeholder="State" name="state">
-  <input placeholder="Zip Code" name="zip">
+  <div class="form-group inline-form">
+    <input class="form-control" placeholder="First Name" name="firstName">
+    <input class="form-control" placeholder="Last Name" name="lastName">
+  </div>
+  <input class="form-control" placeholder="Street Address" name="street">
+  <input class="form-control" placeholder="City" name="city">
+  <input class="form-control" placeholder="State" name="state">
+  <input class="form-control" placeholder="Zip Code" name="zip">
 
   <input type=submit name="checkout" value="Complete Checkout">
 

@@ -13,3 +13,4 @@
       <li class="<?php echo $page=='checkout' ? 'active' : ''?>"><a href="checkout.php">Checkout</a></li>
     </ul>
 </nav>
+<div class="container main">
