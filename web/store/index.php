@@ -1,4 +1,5 @@
 <?php require 'header-php.php';?>
+<?php $page="home"; ?>
 <?php require 'header-html.php';?>
 
 

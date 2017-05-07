@@ -14,6 +14,7 @@ if (isset($_POST['remove']) && isset($_POST['product'])) {
     exit();
 }
 ?>
+<?php $page="cart"; ?>
 <?php require 'header-html.php';?>
 
 

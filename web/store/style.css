@@ -1,0 +1,11 @@
+
+.product-list {
+  list-style: none;
+}
+
+.product-item {
+  float: left;
+  margin: 20px;
+  box-shadow: lightgrey 2px 2px 2px 2px;
+  padding: 5px;
+}
