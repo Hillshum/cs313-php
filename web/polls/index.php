@@ -14,7 +14,6 @@ $statement->execute();
       echo '<li>';
       echo '<a href="poll.php?id=' . $row['id'] . '">' . $row['name'] . '</a>';
       echo '</li>';
-
     }
   ?>
 </ul>

@@ -1,0 +1,15 @@
+.polls-list {
+  list-style: none
+}
+
+.poll-responses {
+  list-style: none
+}
+
+body {
+  background-color: lightblue
+}
+
+.main {
+  background: lightskyblue
+}
