@@ -1,0 +1,34 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+1. Describe something from your database that you think came together very nicely.
+
+The relationship between responses and polls
+
+
+2. Describe something from your database that you think could be improved or extended in the future.
+
+Making a many-to-many table to save a user's responses
+
+3. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+A bit about how to view database status from psql
+
+
+4. Briefly describe two principles of good database design.
+
+No duplicate data--everything should be stored once, and referential integrity—no broken links
+
+
+5. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+6. Provide a brief justification (1-2 sentences) for selecting that category.
+
+D. It's a pretty simpmle app.
+
+

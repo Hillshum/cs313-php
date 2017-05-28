@@ -1,0 +1,44 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application:
+
+
+https://sheltered-shore-54456.herokuapp.com/about.html
+
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/hillshum/cs313-php
+
+
+3. Briefly list and describe the elements of the application that are functioning. Include any special instructions about how to login and/or use your application.
+
+Well, there's a page.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+The assignments page isn't up yet.
+
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+Uhh...Bootstrap menus are pretty helpful.
+
+6. What is the difference between an HTTP Get and Post? When should each be used?
+Maybe I just skipped half the reading, but I don't remember it. Anyway, I happen to know that a get is used for reading content and has query parameters in the form `?foo=bar&fixstuff=true`, while a post has the parameters elsewhere and is usually used for writing stuff or something that would make a change.
+
+
+7. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+D
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+It does what it should.
+

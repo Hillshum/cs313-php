@@ -1,0 +1,46 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application:
+
+http://sheltered-shore-54456.herokuapp.com/store/index.php
+
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/Hillshum/cs313-php
+
+
+3. Briefly list and describe the elements of the application that are functioning. Include any special instructions about how to login and/or use your application.
+
+
+Well, it's a handful of forms. 
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+It needs more styles
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+Umm...php has a lot of useful stuff for web coding.
+
+6. List one strength and one limitation of using cookies.
+
+They are helpful for offloading the burden of keeping track of users to the clients. They can also be maniuplated by the client.
+
+7. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+Well, going witht the above letters, an E
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+It meets all requirements, plus has some styles and things improving it slightly
+
+
+
+

@@ -1,0 +1,44 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application:
+
+https://sheltered-shore-54456.herokuapp.com/polls
+
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub)
+
+https://github.com/hillshum/cs313-php
+
+
+3. Briefly list and describe the elements of the application that are functioning. Include any special instructions about how to login and/or use your application.
+
+Creating and viewing polls functions
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+Responding to polls and viewing results
+
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+php makes redirects really easy.
+
+6. What is a benefit of having a foreign key constraint?
+
+Maintaining referential integrity. No broken links
+
+7. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+C
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+Without the ability to respond to polls, it doesn't work
+
+
