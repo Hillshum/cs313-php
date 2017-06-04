@@ -3,7 +3,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="vote.js"></script>
 <?php
-require 'header.html';
+require 'pageHeader.php';
 
 $pollId = $_GET['id'];
 $statement = $db->prepare("select name, question from poll where id =:id");

@@ -1,6 +1,7 @@
 <?php require 'header.php' ?>
 
 <?php
+require 'pageHeader.php';
 
 $statement =$db->prepare("select name, id from poll");
 

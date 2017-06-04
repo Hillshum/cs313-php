@@ -11,6 +11,13 @@
       <ul class="nav navbar-nav">
         <li ><a href="index.php">Home</a></li>
         <li ><a href="new.php">Create Poll</a></li>
+        <?php 
+          if (isset($USER)) { 
+              echo '<li ><a href="logout.php">Log Out</a></li>';
+          } else {
+              echo '<li ><a href="login.php">Log In</a></li>';
+          }
+        ?>
       </ul>
     </nav>
 

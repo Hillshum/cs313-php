@@ -2,7 +2,12 @@
 
 <?php
 
-require 'header.html';
+require 'pageHeader.php';
+
+if (!isset($USER)) {
+    header("Location: login.php");
+    die();
+}
 if ($_SERVER['REQUEST_METHOD'] === 'POST')  {
 
   // Some validation here
