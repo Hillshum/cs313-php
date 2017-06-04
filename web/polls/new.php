@@ -2,6 +2,7 @@
 
 <?php
 
+require 'header.html';
 if ($_SERVER['REQUEST_METHOD'] === 'POST')  {
 
   // Some validation here

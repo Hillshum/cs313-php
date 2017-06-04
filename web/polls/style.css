@@ -2,7 +2,7 @@
   list-style: none
 }
 
-.poll-responses {
+.poll-responses li{
   list-style: none
 }
 
@@ -16,4 +16,8 @@ body {
 
 .create-responses {
   list-style: none;
+}
+
+.poll-data .results {
+  float: right;
 }
